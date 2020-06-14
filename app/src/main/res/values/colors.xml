@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F79400</color>
+    <color name="colorPrimaryDark">#222222</color>
+    <color name="colorAccent">#CDDC39</color>
+
+    <color name="colorAppDark">#222222</color>
+
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="colorfakeWhite">#F7F7F7</color>
+
+    <color name="trans">#00FFFFFF</color>
+
+    <color name="secondarytext">#929292</color>
+
+
+</resources>

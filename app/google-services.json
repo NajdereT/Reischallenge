@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "123605093629",
+    "firebase_url": "https://reischallenge-c51fd.firebaseio.com",
+    "project_id": "reischallenge-c51fd",
+    "storage_bucket": "reischallenge-c51fd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:123605093629:android:3e6134e9269f49c8d9c294",
+        "android_client_info": {
+          "package_name": "com.example.reischallenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "123605093629-7k1ghk8nms6gn5o0avf9ih5v2bfamgle.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.reischallenge",
+            "certificate_hash": "b500b268a33e83ad6bf43a54e28f44ec8604f22d"
+          }
+        },
+        {
+          "client_id": "123605093629-o47a149pj5huu192bp9qurh62ms9rup2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8KiW7MFu_AVvy7p_9w08dGI6lVWUyRF8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "123605093629-o47a149pj5huu192bp9qurh62ms9rup2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

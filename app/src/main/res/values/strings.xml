@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Reischallenge</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">South African Travels biedt de beste reizen naar de mooiste landen ter wereld.</string>
+    <string name="account">Om uw accountgegevens te bekijken moet u eerst inloggen met de knop hieronder</string>
+
+</resources>
